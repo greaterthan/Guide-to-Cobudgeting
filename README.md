@@ -1,3 +1,6 @@
-# My Awesome Book
+# Greaterthan's Guide to Collaborative Finance
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Learn how to use collaborative financial tools in your organization. This Handbook provides you with everything you need to make collaborative finance easy such as training resources, guides, and stories.
+
+Greaterthan is 
+
