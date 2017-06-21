@@ -1,6 +1,10 @@
 # Cobudget
 
-**Cobudget **helps groups allocate funds collaboratively and transparently. 
+**Cobudget **helps groups allocate funds collaboratively and transparently.
+
+
+
+---
 
 ## Getting started with Cobudget
 
