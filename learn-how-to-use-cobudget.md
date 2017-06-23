@@ -1,6 +1,10 @@
 # Cobudget Basics
 
-Key features of the tool
+
+
+\[ADD VIDEO WITH KEY FEATURES\]
+
+
 
 Starting a group
 
