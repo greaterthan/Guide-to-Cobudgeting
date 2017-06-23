@@ -10,6 +10,6 @@
       * [Start the funding process](learn-how-to-use-cobudget/start-the-funding-process.md)
       * [Facilitating your group](learn-how-to-use-cobudget/facilitating-your-group.md)
     * [Guides & How-to](guides-and-how-to.md)
-    * Case studies & user stories
+    * [Case studies & user stories](case-studies-and-user-stories.md)
 * About Greaterthan
 
