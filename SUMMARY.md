@@ -11,5 +11,5 @@
       * [Facilitating your group](learn-how-to-use-cobudget/facilitating-your-group.md)
     * [Guides & How-to](guides-and-how-to.md)
     * [Case studies & user stories](case-studies-and-user-stories.md)
-* About Greaterthan
+* [About Greaterthan](about-greaterthan.md)
 
