@@ -1,8 +1,8 @@
 # Case studies & user stories
 
-Member organization: Evolutionary Leadership
+Member organizations: Evolutionary Leadership
 
-Team: Blackwood7
+Teams: Blackwood7
 
-Network: Enspiral, OuiShare, Open Food Network
+Network: Enspiral, OuiShare, Open Food Network, Outlandish
 
