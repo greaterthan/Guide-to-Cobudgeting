@@ -1,5 +1,7 @@
 # Cobudget Basics
 
+Key features of the tool
+
 Starting a group
 
 Setting the rules for your group
