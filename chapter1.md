@@ -1,4 +1,4 @@
-# Why collaborative finance? 
+# Why collaborative finance?
 
 
 
