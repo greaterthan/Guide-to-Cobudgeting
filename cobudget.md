@@ -4,9 +4,9 @@
 
 ---
 
-## Getting started with Cobudget  
+## Getting started with Cobudget
 
-**Learn to use Cobudget**  
+[**Learn to use Cobudget**](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/learn-how-to-use-cobudget.html)  
 Get familiar with the basics.
 
 **Guides & How To's**  
