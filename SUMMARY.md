@@ -9,7 +9,7 @@
       * [Setting the rules for your group](learn-how-to-use-cobudget/setting-the-rules-for-your-group.md)
       * [Start the funding process](learn-how-to-use-cobudget/start-the-funding-process.md)
       * [Facilitating your group](learn-how-to-use-cobudget/facilitating-your-group.md)
-    * Guides & How-to
+    * [Guides & How-to](guides-and-how-to.md)
     * Case studies & user stories
 * About Greaterthan
 
