@@ -4,5 +4,5 @@ Learn how to use collaborative financial tools in your organization. This Handbo
 
 ---
 
-**Greaterthan** has the mission to nurture an open, collaborative finance ecosystem. We want to make collaborative finance easy and accessible to anyone.
+[**Greaterthan** ](https://greater.finance/)has the mission to nurture an open, collaborative finance ecosystem. We want to make collaborative finance easy and accessible to anyone.
 
