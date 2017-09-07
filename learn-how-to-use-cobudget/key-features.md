@@ -1,16 +1,12 @@
-# Key Features
+# Cobudget 101  
 
-Budget lines are called „Buckets“. 
+Budget lines are called „Buckets“.
 
-New buckets can be proposed easily and dynamically. 
+New buckets can be proposed easily and dynamically.
 
 ![](/assets/buckets.png)
 
-
-
-Buckets can be funded easily in one click. 
+Buckets can be funded easily in one click.
 
 ![](/assets/funding.png)
-
-
 
