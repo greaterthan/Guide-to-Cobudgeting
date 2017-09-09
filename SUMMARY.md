@@ -13,5 +13,6 @@
       * Admin Support
     * [Guides & How-to](guides-and-how-to.md)
     * [Cobudget Use Cases](case-studies-and-user-stories.md)
+    * [Case Studies](case-studies.md)
 * [About Greaterthan](about-greaterthan.md)
 
