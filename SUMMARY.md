@@ -12,6 +12,6 @@
       * [Facilitating your group](learn-how-to-use-cobudget/facilitating-your-group.md)
       * Admin Support
     * [Guides & How-to](guides-and-how-to.md)
-    * [Case studies & user stories](case-studies-and-user-stories.md)
+    * [Cobudget Use Cases](case-studies-and-user-stories.md)
 * [About Greaterthan](about-greaterthan.md)
 
