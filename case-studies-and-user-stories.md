@@ -27,7 +27,7 @@ Cobudget is used for** teams or entire organisations** to collaboratively alloca
 * Operational costs: events, travel, office furniture, well-being & team building activities
 * Strategic projects: innovation, exploring new products / services, prototypes, new ideas \(i.e. running a contest\)
 
-**Groups:** Disrupt Consulting, Happy Bern Lab
+**Groups:**[ Blackwood7](https://blackwoodseven.com/), [Disrupt Consulting](https://www.disrupt-consulting.com), [Happy Bern Lab](https://amanitas.gitbooks.io/amanitas-handbook/content/cobudget-collaborative-funding/prototype-1-with-house-residents.html)
 
 ## 3. Networks
 
