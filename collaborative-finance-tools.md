@@ -6,6 +6,7 @@ We develop various tools to support organizations doing collaborative finance. T
 
 * [Collaborative Funding: Cobudget](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/cobudget.html)
 * Virtual Accounts
+* Self-setting salaries
 
 
 
