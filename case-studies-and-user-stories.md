@@ -4,36 +4,45 @@
 
 Cobudget is used to engage a paying member community in financial decisions.
 
-**How?**
+#### **How?**
 
-* A percentage or the full membership fee \(monthly, quaterly or annually\) is made available to members in a Cobudget group to decide what their fee is spent on and  suggest new ideas.
+* A percentage or the full **membership fee **\(monthly, quaterly or annually\) is made available to members in a Cobudget group to decide what their fee is spent on and  suggest new ideas.
 
   OR
 
-* a percentage or total of surplus / bonuses are allocated through Cobudget to fund \(new\) projects.
+* a percentage or total of** surplus / bonuses** are allocated through Cobudget to fund \(new\) projects.
 
-**Examples**
+#### **Examples**
 
 Alumni-organisations, NGOs, Coworking Spaces, Cooperatives, Associations
 
-Groups: Outlandish, Evolutionary Leadership, Workhubs
+**Groups:** Outlandish, Evolutionary Leadership, Workhubs
 
 ## 2. Within an organisation
 
 Cobudget is used for** teams or entire organisations** to collaboratively allocate resources to costs of all types and new projects.
 
-**Examples of budgets are: **
+#### **Examples of budgets are: **
 
 * Operational costs: events, travel, office furniture, well-being & team building activities
 * Strategic projects: innovation, exploring new products / services, prototypes, new ideas \(i.e. running a contest\)
 
-Disrupt Consulting, Happy Bern Lab
+**Groups:** Disrupt Consulting, Happy Bern Lab
 
 ## 3. Networks
 
-Cobudget is used for **funding a commons** within a network that consists of a diversity of individuals and entities \(both profit and non-profit\) in multiple locations. 
+Cobudget is used for **funding a commons** within a network. They tend to consist of a diversity of individuals and entities \(both profit and non-profit\) in multiple locations.
 
-Increasing your impact by tapping into the resources of a whole ecosystem to fund projects together. Enhances collaboration between organisations
+Objectives of Cobudgeting in this case are: 
 
-Groups with this use case: [Enspiral](http://enspiral.com),[ OuiShare](http://ouishare.net), Open Food Network, Co-Tech
+* Enabling the entities and individuals in the network to fund projects together
+* Investing in shared assets and infrastructure \(i.e. software, branding\)
+* Increasing impact and possibilities by tapping into the resources of the whole ecosystem 
+* Enhancing collaboration between organisations
+
+#### **How? **
+
+In this use case there are a many different ways that group members receive funds in Cobudget. Each specific network needs to find the right solution to manage the money flows between entities in a legal and efficient way. 
+
+**Groups:** [Enspiral](http://enspiral.com),[ OuiShare](http://ouishare.net), Open Food Network, Co-Tech
 
