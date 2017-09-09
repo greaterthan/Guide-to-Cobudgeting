@@ -16,7 +16,7 @@ Cobudget is used to engage a paying member community in financial decisions.
 
 Alumni-organisations, NGOs, Coworking Spaces, Cooperatives, Associations
 
-**Groups:** Outlandish, Evolutionary Leadership, Workhubs
+**Groups:** [Outlandish](https://outlandish.com/), [Evolutionary Leadership Institute](https://www.evoleadinstitute.com/),[ Workhubs](http://www.atworkhubs.co.uk/)
 
 ## 2. Within an organisation
 
@@ -33,7 +33,7 @@ Cobudget is used for** teams or entire organisations** to collaboratively alloca
 
 Cobudget is used for **funding a commons** within a network. They tend to consist of a diversity of individuals and entities \(both profit and non-profit\) in multiple locations.
 
-Objectives of Cobudgeting in this case are: 
+Objectives of Cobudgeting in this case are:
 
 * Enabling the entities and individuals in the network to fund projects together
 * Investing in shared assets and infrastructure \(i.e. software, branding\)
@@ -42,7 +42,7 @@ Objectives of Cobudgeting in this case are:
 
 #### **How? **
 
-In this use case there are a many different ways that group members receive funds in Cobudget. Each specific network needs to find the right solution to manage the money flows between entities in a legal and efficient way. 
+In this use case there are a many different ways that group members receive funds in Cobudget. Each specific network needs to find the right solution to manage the money flows between entities in a legal and efficient way.
 
-**Groups:** [Enspiral](http://enspiral.com),[ OuiShare](http://ouishare.net), Open Food Network, Co-Tech
+**Groups:** [Enspiral](http://enspiral.com),[ OuiShare](http://ouishare.net), [Open Food Network](https://openfoodnetwork.org/)
 
