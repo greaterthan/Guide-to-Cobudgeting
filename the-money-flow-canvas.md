@@ -20,5 +20,3 @@ They Money-Flow Canvas is a simple tool that helps you analyze the money flows i
 
 
 
-
-
