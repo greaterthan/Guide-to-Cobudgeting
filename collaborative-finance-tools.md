@@ -6,7 +6,7 @@ We develop various tools to support organizations doing collaborative finance. T
 
 * The Money-Flow Canvas
 * [Collaborative Funding: Cobudget](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/cobudget.html)
-* Virtual Accounts
+* Value Accounting
 * Self-setting salaries
 
 
