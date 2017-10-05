@@ -15,6 +15,7 @@ Buckets use **Markdown formatting,** a simple type of formatting that works thro
 When creating a bucket, you are free to add anything you like in the description! To make your bucket as clear and convincing as possible, here are some suggestions on what you could include:
 
 * **Context:** why this idea? 
+* **Deliverables: **what will be the concrete outcome of the project? 
 * **Breakdown of costs:** show what people's funds will go to in more detail
 * **Who **is going to do the work? \(If not just you\)
 * **Timeline:** what deadlines and milestones are there for the project? 
