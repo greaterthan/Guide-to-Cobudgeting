@@ -23,5 +23,9 @@ When creating a bucket, you are free to add anything you like in the description
 
 #### 3. Examples of great buckets
 
+![](/assets/ouishare2.png)
+
+![](/assets/ouishare3.png)
+
 
 
