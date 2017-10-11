@@ -6,25 +6,24 @@ Total in Funded Buckets =£192,450  \| No. of funded buckets = 34
 
 
 
-Q. **In your words, what is cobudgeting and how do you \(Outlandish\) do it?  
-  
-**A. Cobudgeting for Outlandish is the means of democratically distributing our surplus and enabling everyone to be involved in spending it.  
-  
-At every quarter-end our finance team calculate our net margin \(surplus\) for the quarter. We use Toggl \(time tracking\) and a bit of spreadsheet work to distribute the surplus proportionally to the amount that people have worked. We update people’s funds in Cobudget accordingly, by uploading the output of this spreadsheet.  
-  
-There is no system integration with Cobudget - i.e. this is all a manual process.  
-  
-We have guidelines on the types of project that can be proposed through Cobudget and who can propose them. These guidelines change over time, depending on the strategic direction of the coop. At the start there was an explicit tech-for-good focus; more recently the emphasis has been on investing in Outlandish’s mission, particularly helping grow Outlandish’s business.  
-  
-When a project is fully-funded we run it as we would any other project. All spend on the project is coded in our other systems such that it is eventually accounted for as “noncommercial spend” in Xero - i.e. it subtracts from our surplus.  
-  
-Here are some interesting guidelines for Outlandish’s use of Cobudget:  
-- Cobudget is not for “business as usual” work. It is spending our surplus - all BAU work should come outabovethe bottom line, not below.  
-- We discourage people from proposing and self-funding their own projects. I.e. we like to see multiple people buy into a project by contributing to the funding  
-- We discourage people from “sitting” on their funds, and have discussed altering the distribution algorithm to correct for “hoarders”  
-- Projects must be resourced and managed with the same rigour as external, client projects.
+**Q. In your words, what is cobudgeting and how do you \(Outlandish\) do it?**
 
+A. Cobudgeting for Outlandish is the means of democratically distributing our surplus and enabling everyone to be involved in spending it.
 
+At every quarter-end our finance team calculate our net margin \(surplus\) for the quarter. We use Toggl \(time tracking\) and a bit of spreadsheet work to distribute the surplus proportionally to the amount that people have worked. We update people’s funds in Cobudget accordingly, by uploading the output of this spreadsheet.
+
+There is no system integration with Cobudget - i.e. this is all a manual process.
+
+We have guidelines on the types of project that can be proposed through Cobudget and who can propose them. These guidelines change over time, depending on the strategic direction of the coop. At the start there was an explicit tech-for-good focus; more recently the emphasis has been on investing in Outlandish’s mission, particularly helping grow Outlandish’s business.
+
+When a project is fully-funded we run it as we would any other project. All spend on the project is coded in our other systems such that it is eventually accounted for as “noncommercial spend” in Xero - i.e. it subtracts from our surplus.
+
+Here are some interesting guidelines for Outlandish’s use of Cobudget:
+
+* Cobudget is not for “business as usual” work. It is spending our surplus - all BAU work should come outabovethe bottom line, not below.  
+* We discourage people from proposing and self-funding their own projects. I.e. we like to see multiple people buy into a project by contributing to the funding  
+* We discourage people from “sitting” on their funds, and have discussed altering the distribution algorithm to correct for “hoarders”  
+* Projects must be resourced and managed with the same rigour as external, client projects.
 
 Q. **What are some of the most interesting buckets that you have seen in Cobudget?\(any detail, links, screenshots appreciated\)**
 
@@ -46,6 +45,6 @@ That said, the way Outlandish makes decisions about our surplus has changed dram
 
 This could have been defined without using Cobudget, of course. But with Cobudget, not only is the spending of the surplus now transparent, but anybody working at Outlandish can propose projects, and funds can be distributed directly to individuals. It is the combination of these three elements that make it so transformative for how we manage our surplus.
 
-**  
+**    
 **
 
