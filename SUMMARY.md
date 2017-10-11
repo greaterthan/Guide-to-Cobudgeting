@@ -12,4 +12,5 @@
     * [Case Studies](case-studies.md)
   * [Value Accounting](value-accounting.md)
 * [About Greaterthan](about-greaterthan.md)
+* [Use Case: Outlandish ](use-case-outlandish.md)
 
