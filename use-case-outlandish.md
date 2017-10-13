@@ -33,7 +33,7 @@ When a project is fully-funded we run it as we would any other project. All the 
 4. [NHS Cuts](http://cobudget.co/#/buckets/1323), [Vote for Policies](http://cobudget.co/#/buckets/1307), [Unelectable](http://cobudget.co/#/buckets/1320), [Jeremy Corbyn’s Homepage](http://cobudget.co/#/buckets/1310): four projects that were spun up very quickly after the UK’s 2017 snap election was announced. Although the projects had mixed success, all of them were great examples of how Cobudget allowed the team at Outlandish to leverage our surplus to respond quickly and build the tech we wanted to see built.
 5. [What Women Want](http://cobudget.co/#/buckets/765): a failed project; a great example of what happens if you offer people free stuff: they say yes, without realising they’re not fully committed! A \_learning experience \_for Outlandish
 
-### **Can you describe any changes that Cobudget has brought in how Outlandish makes decisions about money and resources? What else have you noticed?**
+#### **Can you describe any changes that Cobudget has brought in how Outlandish makes decisions about money and resources? What else have you noticed?**
 
 Because we run Cobudget at the end of our financial process \(i.e. we do all the accounts in a standard way, identify the surplus, and then Cobudget the surplus only\) the overall impact on the way we make decisions about money and resources is limited.
 
@@ -45,6 +45,6 @@ It was easy to spend small amounts of surplus \(&lt;£5,000\), because an indivi
 
 This could have been defined without using Cobudget, of course. But _with Cobudget, not only is the spending of the surplus now transparent_, but anybody working at Outlandish can propose projects, and funds can be distributed directly to individuals. It is the combination of these three elements that make it so transformative for how we manage our surplus.
 
-**          
+**            
 **
 
