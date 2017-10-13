@@ -10,8 +10,8 @@
     * [Guides & How-to](guides-and-how-to.md)
     * [Cobudget Use Cases](case-studies-and-user-stories.md)
     * [Case Studies: Stories from our users](case-studies.md)
+      * [Case Study: Outlandish ](use-case-outlandish.md)
       * Case Study: Evolutionary Leadership Institute
-    * [Case Study: Outlandish ](use-case-outlandish.md)
   * [Value Accounting](value-accounting.md)
 * [About Greaterthan](about-greaterthan.md)
 
