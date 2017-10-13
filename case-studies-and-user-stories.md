@@ -1,8 +1,12 @@
 # Cobudget Use Cases
 
+There are many different types of organisations and processes that Cobudget can be used for. Here are 3 examples of common Cobudget use cases and the details of their implementation. 
+
+---
+
 ## 1. Membership Organisations
 
-Cobudget is used to engage a paying member community in financial decisions.
+Cobudget is used to engage a paying \(monthly, quarterly or annually recurring\) member community in financial decisions.
 
 #### **How?**
 
@@ -18,6 +22,8 @@ Alumni-organisations, NGOs, Coworking Spaces, Cooperatives, Associations
 
 **Groups:** [Outlandish](https://outlandish.com/), [Evolutionary Leadership Institute](https://www.evoleadinstitute.com/),[ Workhubs](http://www.atworkhubs.co.uk/)
 
+---
+
 ## 2. Within an organisation
 
 Cobudget is used for** teams or entire organisations** to collaboratively allocate resources to costs of all types and new projects.
@@ -28,6 +34,8 @@ Cobudget is used for** teams or entire organisations** to collaboratively alloca
 * Strategic projects: innovation, exploring new products / services, prototypes, new ideas \(i.e. running a contest\)
 
 **Groups:**[ Blackwood7](https://blackwoodseven.com/), [Disrupt Consulting](https://www.disrupt-consulting.com), [Happy Bern Lab](https://amanitas.gitbooks.io/amanitas-handbook/content/cobudget-collaborative-funding/prototype-1-with-house-residents.html)
+
+---
 
 ## 3. Networks
 
