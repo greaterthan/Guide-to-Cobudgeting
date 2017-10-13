@@ -9,8 +9,8 @@
     * [Phases of Collaborative Funding](learn-how-to-use-cobudget.md)
     * [Guides & How-to](guides-and-how-to.md)
     * [Cobudget Use Cases](case-studies-and-user-stories.md)
+    * [Use Case: Outlandish ](use-case-outlandish.md)
     * [Case Studies](case-studies.md)
   * [Value Accounting](value-accounting.md)
 * [About Greaterthan](about-greaterthan.md)
-* [Use Case: Outlandish ](use-case-outlandish.md)
 
