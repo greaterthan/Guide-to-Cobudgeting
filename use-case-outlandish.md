@@ -39,12 +39,12 @@ Because we run Cobudget at the end of our financial process \(i.e. we do all the
 
 That said -
 
-## "The way Outlandish makes decisions about our surplus has changed dramatically. Pre-Cobudget, there was a lack of transparency and the authority to spend the surplus was limited to the co-ops members."
+### "The way Outlandish makes decisions about our surplus has changed dramatically. Pre-Cobudget, there was a lack of transparency and the authority to spend the surplus was limited to the co-ops members."
 
 It was easy to spend small amounts of surplus \(&lt;£5,000\), because an individual member could sign this off themselves. But it was hard to do anything bigger than that because there was no defined framework on how to make those decisions.
 
 This could have been defined without using Cobudget, of course. But _with Cobudget, not only is the spending of the surplus now transparent_, but anybody working at Outlandish can propose projects, and funds can be distributed directly to individuals. It is the combination of these three elements that make it so transformative for how we manage our surplus.
 
-**        
+**          
 **
 
