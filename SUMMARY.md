@@ -11,7 +11,7 @@
     * [Cobudget Use Cases](case-studies-and-user-stories.md)
     * [Case Studies: Stories from our users](case-studies.md)
       * [Case Study: Outlandish ](use-case-outlandish.md)
-      * Case Study: Evolutionary Leadership Institute
+      * [Case Study: Evolutionary Leadership Institute](case-study-evolutionary-leadership-institute.md)
   * [Value Accounting](value-accounting.md)
 * [About Greaterthan](about-greaterthan.md)
 
