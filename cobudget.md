@@ -1,6 +1,6 @@
 # Cobudget
 
-**Cobudget **helps groups allocate funds collaboratively and transparently.
+**Cobudget **helps groups allocate funds collaboratively and transparently. Get access to the private beta by signing up** **[**here**](http://cobudget.co). 
 
 ---
 
@@ -14,7 +14,7 @@ Advice on how to use Cobudget and fit it into your group processes.
 
 [**Use Cases**](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/case-studies-and-user-stories.html)
 
-The most common use cases for implementing Cobudget and how they work. 
+The most common use cases for implementing Cobudget and how they work.
 
 [**Case Studies: Stories from our users**](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/case-studies.html)  
 People using Cobudget in networks, businessess, coops and communities.
