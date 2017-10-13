@@ -4,13 +4,11 @@ The best way to understand how Cobudgeting can be applied in your group is by le
 
 ## Case Studies
 
-1. #### IT Service Cooperative: [Outlandish](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/use-case-outlandish.html)
+1. #### [IT Service Cooperative: Outlandish](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/use-case-outlandish.html)
 2. #### Membership Organisation: Evolutionary Leadership Institute
 3. #### Company: Blackwood7
 
 ![](https://c1.staticflickr.com/5/4295/35937824746_41712f0dce_z.jpg)
 
 _Photo by Loic Mathey, OuiShare Fest_
-
-
 
