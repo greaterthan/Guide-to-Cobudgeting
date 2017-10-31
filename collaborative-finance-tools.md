@@ -7,7 +7,6 @@ We develop various tools \(software and practices\) to support organizations doi
 * [The Money-Flow Canvas](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/the-money-flow-canvas.html)
 * [Collaborative Funding with Cobudget](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/cobudget.html)
 * [Value Accounting](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/value-accounting.html)
-* Self-setting salaries
 
 
 
