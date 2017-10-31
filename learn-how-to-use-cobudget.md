@@ -20,10 +20,9 @@ Workshop with the Greaterthan team.
 
 | [Parameters & Policies Template](https://docs.google.com/document/d/1yK8A3HoT8Yd7ElYKfuccRibgCXb_yEj5Pu8WFMPAUts/edit#) | A template with the parameters & policies that you need to define to be able to set up your Cobudget group. |
 | :--- | :--- |
-| Distribution Models |  |
+| Models / Algorithms for distributing funds | an overview of models you can use to distribute funds among your group members. |
 | Examples of group parameters | [Happy City Lab Bern](https://amanitas.gitbooks.io/amanitas-handbook/content/cobudget-collaborative-funding/prototype-1-with-house-residents.html) |
-| Online Demo | A short video about how the tool works that you can use to onboard your group |
-|  |  |
+| Online Demo | A short video about how the tool works that you can use to onboard your group. |
 
 ### 3. Run
 
