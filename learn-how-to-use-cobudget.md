@@ -19,15 +19,21 @@ Workshop with the Greaterthan team.
 
 ### 2. Setup
 
-| Parameters & Policies |  |
+| [Parameters & Policies Template](https://docs.google.com/document/d/1yK8A3HoT8Yd7ElYKfuccRibgCXb_yEj5Pu8WFMPAUts/edit#) | A template with the parameters & policies that you need to define to be able to set up your Cobudget group. |
 | :--- | :--- |
 |  |  |
 
-### 3. Run 
+### 3. Run
 
 How to make a great bucket
 
 ### 4. Close & Report
+
+| [Bucket Handoff Sheet Template](https://docs.google.com/a/jessykate.com/spreadsheets/d/1gbqW2yJxNG7G7_B-oKbwQG0OoEiJY6pPTUppilORsyU/edit?usp=sharing) | A template you can give to your accountant for processing funded buckets.  |
+| :--- | :--- |
+| [Reports & Metrics](https://docs.google.com/document/d/12YsZKYzUHEk9pXXECrwg6xs4ZdkYJTzszJwMowe3M0Y/edit) | Examples of reports by groups using cobudget and a list of potential metrics you can measure to track engagement.  |
+
+
 
 
 
