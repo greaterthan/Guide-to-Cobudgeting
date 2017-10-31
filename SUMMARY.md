@@ -8,6 +8,7 @@
     * [Guides & How-to](guides-and-how-to.md)
       * [Cobudget Resources & Templates](learn-how-to-use-cobudget.md)
       * [Making great buckets](guides-and-how-to/making-great-buckets.md)
+      * [Group Admin Guide](group-admin-guide.md)
     * [Cobudget Use Cases](case-studies-and-user-stories.md)
     * [Case Studies: Stories from our users](case-studies.md)
       * [Case Study: Outlandish ](use-case-outlandish.md)
