@@ -6,7 +6,7 @@
   * [The Money-Flow Canvas](the-money-flow-canvas.md)
   * [Collaborative Funding: Cobudget](cobudget.md)
     * [Cobudget 101](learn-how-to-use-cobudget/key-features.md)
-    * [Phases of Collaborative Funding](learn-how-to-use-cobudget.md)
+    * [Cobudget Resources for Groups](learn-how-to-use-cobudget.md)
     * [Guides & How-to](guides-and-how-to.md)
     * [Cobudget Use Cases](case-studies-and-user-stories.md)
     * [Case Studies: Stories from our users](case-studies.md)
