@@ -1,11 +1,3 @@
-# Why collaborative finance?
-
-### Money makes collaboration real.
-
-Collaborative finance is a powerful tool to increase engagement, transparency and agility in organisations, networks, communities and groups.
-
----
-
 # Collaborative Financial Tools
 
 We develop various tools \(software and practices\) to support organizations doing collaborative finance. The tool we are currently working on is called Cobudget.

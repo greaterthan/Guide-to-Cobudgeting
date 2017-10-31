@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Why Collaborative Finance? ](chapter1.md)
 * [Collaborative Finance Tools](collaborative-finance-tools.md)
   * [The Money-Flow Canvas](the-money-flow-canvas.md)
   * [Collaborative Funding: Cobudget](cobudget.md)
