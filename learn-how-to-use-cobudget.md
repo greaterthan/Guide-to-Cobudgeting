@@ -8,16 +8,26 @@ Here are some helpful resources that can guide you in taking your group through 
 
 ### 1. Discovery
 
-| [Money flow canvas](/the-money-flow-canvas.md) | a canvas to help you get an overview and analyze your money flows and how decisions about them are made  |
+Workshop with the Greaterthan team.
+
+| [Money flow canvas](/the-money-flow-canvas.md) | a canvas to help you get an overview and analyze your money flows and how decisions about them are made |
 | :--- | :--- |
 | [Cobudget 101](/learn-how-to-use-cobudget/key-features.md) | Cobudget's basic features |
-| Online Demo | a short video about how the tool works that you can share with your group  |
+| Online Demo | a short video about how the tool works that you can share with your group |
 | [Use cases](/case-studies-and-user-stories.md) | An overview of types of use cases that Cobudget works well with |
-| [Case Studies](/case-studies.md) | Stories from our top users and how they are using Cobudget.  |
+| [Case Studies](/case-studies.md) | Stories from our top users and how they are using Cobudget. |
 
+### 2. Setup
 
+| Parameters & Policies |  |
+| :--- | :--- |
+|  |  |
 
-### 2. Setup 
+### 3. Run 
+
+How to make a great bucket
+
+### 4. Close & Report
 
 
 
