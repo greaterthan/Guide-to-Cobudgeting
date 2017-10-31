@@ -4,7 +4,7 @@
 * [Collaborative Finance Tools](collaborative-finance-tools.md)
   * [The Money-Flow Canvas](the-money-flow-canvas.md)
   * [Collaborative Funding: Cobudget](cobudget.md)
-    * [Cobudget 101](learn-how-to-use-cobudget/key-features.md)
+    * [Cobudget Basics](learn-how-to-use-cobudget/key-features.md)
     * [Cobudget Resources for Groups](learn-how-to-use-cobudget.md)
     * [Guides & How-to](guides-and-how-to.md)
     * [Cobudget Use Cases](case-studies-and-user-stories.md)
