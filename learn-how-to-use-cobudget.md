@@ -4,11 +4,15 @@ Here are some helpful resources that can guide you in taking your group through 
 
 # ![](/assets/process.png)
 
-### Templates & Resources to accompany these phases
+## Templates & Resources to accompany these phases
 
-Setup
+| Phase | Support Resources |
+| :--- | :--- |
+| 1. Discovery | Money Flow Canvas |
+| 2. Setup | Parameters & Policies |
+| 3. Run |  |
+| 4. Close |  |
+| 5. Report |  |
 
-Running your run
 
-Close: Bucket handoff sheet
 
