@@ -4,9 +4,11 @@ Here are some helpful resources that can guide you in taking your group through 
 
 ## ![](/assets/phasescobudget.png)1. Discovery
 
-Workshop with the Greaterthan team.
+In this phase we recommend your organisation hold a workshop to analyze how cobudgeting can provide value for you and identify where \(in which team or process\) you can integrate it. If you would like support with this first step, the [Greaterthan team would be happy to hold a customized **workshop for you to kick you off with Cobudget**](https://greater.finance/services/). 
 
-| [Money flow canvas](/the-money-flow-canvas.md) | a canvas to help you get an overview and analyze your money flows and how decisions about them are made |
+
+
+| [Money flow canvas](/the-money-flow-canvas.md) | A canvas to help you get an overview and analyze your money flows and how decisions about them are made |
 | :--- | :--- |
 | [Cobudget 101](/learn-how-to-use-cobudget/key-features.md) | Cobudget's basic features |
 | [Use cases](/case-studies-and-user-stories.md) | An overview of types of use cases that Cobudget works well with |
