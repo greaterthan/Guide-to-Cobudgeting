@@ -29,9 +29,9 @@ Workshop with the Greaterthan team.
 
 | Email templates | to communciate with your group |
 | :--- | :--- |
-| User upload template |  |
-| Fund upload template |  |
-| How to make a great bucket |  |
+| [User upload template](https://docs.google.com/spreadsheets/d/1gyetC5knE7wFbNuPGQBmKuSi055il9mAOoaglGV6-0w/edit#gid=0) | for bulk upload of users |
+| [Fund upload template](https://docs.google.com/spreadsheets/d/1gyetC5knE7wFbNuPGQBmKuSi055il9mAOoaglGV6-0w/edit#gid=1129322247) | for bulk upload and changing of users' funds |
+| [How to make a great bucket](/guides-and-how-to.md) | advice and examples for scoping good buckets |
 
 ### 4. Close & Report
 
