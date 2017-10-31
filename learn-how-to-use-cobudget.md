@@ -4,14 +4,12 @@ Here are some helpful resources that can guide you in taking your group through 
 
 ## ![](/assets/phasescobudget.png)1. Discovery
 
-In this phase we recommend your organisation hold a workshop to analyze how cobudgeting can provide value for you and identify where \(in which team or process\) you can integrate it. If you would like support with this first step, the [Greaterthan team would be happy to hold a customized **workshop for you to kick you off with Cobudget**](https://greater.finance/services/). 
+In this phase we recommend your organisation hold a workshop to analyze how cobudgeting can provide value for you and identify where \(in which team or process\) you can integrate it. If you would like support with this first step, the [Greaterthan team would be happy to hold a customized **workshop for you to kick you off with Cobudget**](https://greater.finance/services/).
 
-
-
-| [Money flow canvas](/the-money-flow-canvas.md) | A canvas to help you get an overview and analyze your money flows and how decisions about them are made |
+| [Money flow canvas](/the-money-flow-canvas.md) | A canvas to help you get an overview and analyze your money flows and how decisions about them are made. |
 | :--- | :--- |
 | [Cobudget 101](/learn-how-to-use-cobudget/key-features.md) | Cobudget's basic features |
-| [Use cases](/case-studies-and-user-stories.md) | An overview of types of use cases that Cobudget works well with |
+| [Use cases](/case-studies-and-user-stories.md) | An overview of types of use cases that Cobudget works well with. |
 | [Case Studies](/case-studies.md) | Stories from our top users and how they are using Cobudget. |
 
 ## 2. Setup
@@ -24,11 +22,11 @@ In this phase we recommend your organisation hold a workshop to analyze how cobu
 
 ## 3. Run
 
-| Email templates | to communciate with your group |
+| Email templates | To communciate with your group |
 | :--- | :--- |
-| [User upload template](https://docs.google.com/spreadsheets/d/1gyetC5knE7wFbNuPGQBmKuSi055il9mAOoaglGV6-0w/edit#gid=0) | for bulk upload of users |
-| [Fund upload template](https://docs.google.com/spreadsheets/d/1gyetC5knE7wFbNuPGQBmKuSi055il9mAOoaglGV6-0w/edit#gid=1129322247) | for bulk upload and changing of users' funds |
-| [How to make a great bucket](/guides-and-how-to.md) | advice and examples for scoping good buckets |
+| [User upload template](https://docs.google.com/spreadsheets/d/1gyetC5knE7wFbNuPGQBmKuSi055il9mAOoaglGV6-0w/edit#gid=0) | For bulk upload of users |
+| [Fund upload template](https://docs.google.com/spreadsheets/d/1gyetC5knE7wFbNuPGQBmKuSi055il9mAOoaglGV6-0w/edit#gid=1129322247) | For bulk upload and changing of users' funds |
+| [How to make a great bucket](/guides-and-how-to.md) | Advice and examples for scoping good buckets |
 
 ## 4. Close & Report
 
