@@ -19,20 +19,16 @@ Since this first step is often the most challenging, you may want human support 
 
 Now that you have identifed where you want to get started with using Cobudget in your organisation, it's time to **setup the detailed parameters of your Cobudget group**. By this we mean how Cobudget will be integrated into your exsiting way of working and agreeing on the basic rules for how you will use it, such as who can join the group, how funds will be distributed etc.
 
-
-
 | **Resources for Setup Phase** |  |
 | :--- | :--- |
 | [Parameters & Policies Template](https://docs.google.com/document/d/1yK8A3HoT8Yd7ElYKfuccRibgCXb_yEj5Pu8WFMPAUts/edit#) | The most important template to start with: It guides you through the key parameters & policies that need to be setting up to start cobudgeting. |
-| Models / Algorithms for distributing funds | An overview of models you can use to distribute funds among your group members. |
+| [Models / Algorithms for distributing funds](https://docs.google.com/document/d/1dzQynmlx2HojdSDr7rbHjrNvFo78NQccyxvxNK4nwRE/edit?usp=sharing) | An overview of models you can use to distribute funds among your group members. |
 | Examples of group parameters | [Happy City Lab Bern](https://amanitas.gitbooks.io/amanitas-handbook/content/cobudget-collaborative-funding/prototype-1-with-house-residents.html) |
 | Online Demo | A short video about how the tool works that you can use to onboard your group. |
 
 ## 3. Run
 
 Now it's time to run your first Cobudget round! This includes faciliating the process from A to Z, such as communicating about it to your organisation members, onboarding them onto the tool, distributing funds to them and giving them support on how to use Cobudget well.
-
-
 
 | **Resources for **_**Running**_** Cobudget** |  |
 | :--- | :--- |
@@ -44,8 +40,6 @@ Now it's time to run your first Cobudget round! This includes faciliating the pr
 ## 4. Close & Report
 
 Once your round is over, you need to ensure that everything that took place inside the tool is handed over cleanly to an administration for processing and making payments. To measure your success with using Cobudget, it's useful to track metrics about your group and its engagement.
-
-
 
 | **Resources & Templates for Closing & Reporting Phase** |  |
 | :--- | :--- |
