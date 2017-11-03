@@ -16,5 +16,4 @@
       * [Case Study: Blackwood7](case-study-blackwood7.md)
   * [Value Accounting](value-accounting.md)
 * [About Greaterthan](about-greaterthan.md)
-* [book.json](bookjson.md)
 
