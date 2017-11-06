@@ -4,24 +4,22 @@
 
 #### How they use Cobudget
 
-To enagage their member community \(who makes recurring financial contributions\) in resource allocation and to empower them to fund their own workshops. 
+To enagage their member community \(who makes recurring financial contributions\) in resource allocation and to empower them to fund their own workshops.
 
 ## Total in Funded Buckets = **$15,006 USD**  \| No. of funded buckets = 32
 
 ![](https://lh4.googleusercontent.com/2X4A6umtvcKxRYE6xv5Y6bMFndFKEFakyUuKtKSx4y2rDESEyxeGnu5759coGzX1xcgXoFKyxOiIcE8NefrXFoBqamvC4HekPqQ4OzemJukf8doZOqA4OfeS8l4w49AaP4tbF9Pa)
 
-Photo: _Members of the IEL community deep in discussion _**        
+Photo: _Members of the IEL community deep in discussion _**          
 **IEL practise what they preach, and have designed collaborative finance into the heart of the operating model of their Evolutionary Leadership Community.
 
 Everyone who offers a workshop chooses their own pay-rate \($130/h and up, according to community’s Operating Principles\), and each workshop is funded collaboratively through Cobudget by other members. Any additional profits from ticket sales are then returned to the members, who decide what workshops to fund and offer next month. Using Cobudget to manage the money made from their workshop offerings, the ELC are able to create a virtuous cycle of resource sharing among their members. The more workshops they run successfully, the more money flows to the community to hire itself. At the same time, they’ve helped deepen engagement and participation in the network itself and used community funds to organize social events for members and sponsor members’ community related traves. For example, thanks to community support, one member was able to travel from Athens, Greece to the San Francisco Bay Area to participate in the Evolutionary Future Challenge and eventually she became one of the three recipients of the main prize of the event.
 
+#### “Being able to offer members direct participation in making financial decisions has increased attendance to workshops, and a growing sense of ownership within the community.” ~ Fyodor Ovchinnikov, Co-Founder & Managing Partner  
+
 Now the community is seeking to expand the variety of proposals they fund to include seed funding for systemic change work: the main idea is to leverage the community of teachers and practitioners who understand deeply what systemic change work is, and delegate funding decisions to this collective mind. With the proof of concept, community funds could be matched with external funds provided by forward thinking players in the fields of philanthropy and impact investing.
 
 The Institute for Evolutionary Leadership is working to support leaders redesigning cultures and institutions for a more just, sustainable, and flourishing world. The IEL puts on events, deep trainings and other gatherings for its clients, the public and for its own members. The institute’s community of practitioners is self-managed - and one of their main focuses is facilitating the sharing of best practices amongst colleagues.
-
-_**“Being able to offer members direct participation in making financial decisions has increased attendance to workshops, and a growing sense of ownership within the community.”**_
-
-* Fyodor Ovchinnikov, Co-Founder & Managing Partner  
 
 #### I**n your words, what is cobudgeting and how do you do it?**
 
@@ -57,6 +55,6 @@ Pay attention to culture - Cobudget is great technology and has everything you n
 
 I don’t know - Cobudget is an ideal platform for us. Without it we would be using some ugly spreadsheets. This technology is an enabler of a new way of doing things.
 
-**        
+**          
 **
 
