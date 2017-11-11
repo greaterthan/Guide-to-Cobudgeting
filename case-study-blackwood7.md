@@ -2,7 +2,7 @@
 
 #### _Blackwood Seven is a marketing platform that uses artificial intelligence to help organisations get better results for their marketing spend. _
 
-### **How they use Cobudget**
+#### **How they use Cobudget**
 
 BlackwoodSeven's Barcelona office is an agile team of 16 developers as well as people working in administration, human resources and communication. This team delivers the technical product for the business. They use Cobudget in order to be fully agile and make better financial decisions about everything related to their team, from office furniture, to team building activities, to which conferences to attend.
 
@@ -28,7 +28,7 @@ Before that we probably would have just got someone to decide it all for us \(an
 
 Think as a team not as individuals and you will find that you get a better result. If people just try to take care of themselves they might find that they have less or the group collectively is not as strong.
 
-**    
+**      
 **Also, try to make sure that the money showing in the tool is definitely the money that the group has available - that was the part we struggled with - we weren’t always quite sure if it matched up - this is a group process and admin problem rather than a problem with the tool but it’s important to get it right with your group.
 
 #### **In a world without Cobudget you would…**
