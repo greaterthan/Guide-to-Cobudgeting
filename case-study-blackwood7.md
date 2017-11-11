@@ -1,12 +1,12 @@
 # Case Study: BlackwoodSeven
 
-_Blackwood Seven is a marketing platform that uses artificial intelligence to help organisations get better results for their marketing spend. Their Barcelona team of 16 agile developers and people working in administration, human resources and communication has been using Cobudget. _
+[_Blackwood Seven_](https://blackwoodseven.com/)_ is a marketing platform that uses artificial intelligence to help organisations get better results for their marketing spend. Their Barcelona team of 16 agile developers and people working in administration, human resources and communication has been using Cobudget. _
 
 **How do they use Cobudget? **To be** **fully agile and make better financial decisions about everything related to their team, from office furniture, to team building activities, to which conferences to attend.
 
 **What types of activities to they fund? **Team building activities, attending events, office expenses \(tech, furniture, coffee machines etc.\)
 
-## **Total in funded buckets + €24,432 \| Number of funded buckets: 20**
+### **Total in funded buckets + €24,432 \| Number of funded buckets: 20**
 
 ![](/assets/blackwood7.png)
 
@@ -28,7 +28,7 @@ Before that we probably would have just got someone to decide it all for us \(an
 
 Think as a team not as individuals and you will find that you get a better result. If people just try to take care of themselves they might find that they have less or the group collectively is not as strong.
 
-**        
+**          
 **Also, try to make sure that the money showing in the tool is definitely the money that the group has available - that was the part we struggled with - we weren’t always quite sure if it matched up - this is a group process and admin problem rather than a problem with the tool but it’s important to get it right with your group.
 
 #### **In a world without Cobudget you would…**
