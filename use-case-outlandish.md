@@ -1,6 +1,10 @@
 # Case Study: [**Outlandish**](https://outlandish.com/)
 
-#### A w_eb services consultancy based in London, Outlandish is a worker owned cooperative. They spend their member dividends in Cobudget as a way to fund new work that they care about. This is an interview with a member about how they have been using Cobudget._
+##### A w_eb services consultancy based in London, Outlandish is a worker owned cooperative. They spend their member dividends in Cobudget as a way to fund new work that they care about. This is an interview with a member about how they have been using Cobudget._
+
+**How do they use cobudget? **To democratically distribute their dividends to all cooperative members and make it easy for them to invest it in work they care about.
+
+**What type of activities do they fund? **New tech products, social impact projects that need software, match funding of international initiatives.
 
 ## Total in Funded Buckets =£192,450  \| No. of funded buckets = 34
 
@@ -47,6 +51,6 @@ It was easy to spend small amounts of surplus \(&lt;£5,000\), because an indivi
 
 This could have been defined without using Cobudget, of course. But _with Cobudget, not only is the spending of the surplus now transparent_, but anybody working at Outlandish can propose projects, and funds can be distributed directly to individuals. It is the combination of these three elements that make it so transformative for how we manage our surplus.
 
-**              
+**                
 **
 
