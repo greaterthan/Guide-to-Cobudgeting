@@ -6,7 +6,7 @@ A w_eb services consultancy based in London, Outlandish is a worker owned cooper
 
 **What type of activities do they fund? **New tech products, social impact projects that need software, match funding of international initiatives.
 
-## Total in Funded Buckets =£192,450  \| No. of funded buckets = 34
+### Total in Funded Buckets =£192,450  \| No. of funded buckets = 34
 
 ![](/assets/outlanish.png)
 
@@ -51,6 +51,6 @@ It was easy to spend small amounts of surplus \(&lt;£5,000\), because an indivi
 
 This could have been defined without using Cobudget, of course. But _with Cobudget, not only is the spending of the surplus now transparent_, but anybody working at Outlandish can propose projects, and funds can be distributed directly to individuals. It is the combination of these three elements that make it so transformative for how we manage our surplus.
 
-**                  
+**                    
 **
 
