@@ -12,7 +12,7 @@
     * [Cobudget Use Cases](case-studies-and-user-stories.md)
     * [Case Studies](case-studies.md)
       * [Outlandish: surplus in an IT service coop](use-case-outlandish.md)
-      * [IEL: participation in a consultant community](case-study-evolutionary-leadership-institute.md)
+      * [IEL: a social enterprise & community](case-study-evolutionary-leadership-institute.md)
       * [Blackwood7: running an agile team](case-study-blackwood7.md)
   * [Value Accounting](value-accounting.md)
 * [About Greaterthan](about-greaterthan.md)
