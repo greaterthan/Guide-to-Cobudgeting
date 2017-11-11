@@ -14,6 +14,8 @@ At every quarter-end our finance team calculates our net margin \(surplus\) for 
 
 There is no system integration with Cobudget - i.e. this is all a manual process.
 
+### _"Cobudget enables and encourages us to spend our surplus on long-term investment"_
+
 We have guidelines on the types of project that can be proposed through Cobudget and who can propose them. These guidelines change over time, depending on the strategic direction of the coop. At the start there was an explicit tech-for-good focus; more recently the emphasis has been on investing in Outlandish’s mission, particularly helping grow Outlandish’s business.
 
 When a project is fully-funded we run it as we would any other project. All the funds spent on the project are coded into our other systems, such that it is eventually accounted for as “noncommercial spending” in our accounting software \(Xero\) - i.e. it subtracts from our surplus.
@@ -39,12 +41,12 @@ Because we run Cobudget at the end of our financial process \(i.e. we do all the
 
 That said -
 
-### "The way Outlandish makes decisions about our surplus has changed dramatically. Pre-Cobudget, there was a lack of transparency and the authority to spend the surplus was limited to the co-ops members."
+### _"The way Outlandish makes decisions about our surplus has changed dramatically. Pre-Cobudget, there was a lack of transparency and the authority to spend the surplus was limited to the co-ops members."_
 
 It was easy to spend small amounts of surplus \(&lt;£5,000\), because an individual member could sign this off themselves. But it was hard to do anything bigger than that because there was no defined framework on how to make those decisions.
 
 This could have been defined without using Cobudget, of course. But _with Cobudget, not only is the spending of the surplus now transparent_, but anybody working at Outlandish can propose projects, and funds can be distributed directly to individuals. It is the combination of these three elements that make it so transformative for how we manage our surplus.
 
-**            
+**              
 **
 
