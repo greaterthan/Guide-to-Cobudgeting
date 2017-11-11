@@ -8,10 +8,7 @@ _The _[_Institute for Evolutionary Leadership_](https://www.evoleadinstitute.com
 
 ### Total in Funded Buckets = **$15,006 USD**  \| No. of funded buckets = 32
 
-![](https://lh4.googleusercontent.com/2X4A6umtvcKxRYE6xv5Y6bMFndFKEFakyUuKtKSx4y2rDESEyxeGnu5759coGzX1xcgXoFKyxOiIcE8NefrXFoBqamvC4HekPqQ4OzemJukf8doZOqA4OfeS8l4w49AaP4tbF9Pa)
-
-Photo: _Members of the IEL community deep in discussion _**                  
-**
+![](/assets/evo.png)
 
 IEL practise what they preach, and have designed collaborative finance into the heart of the operating model of their Evolutionary Leadership Community.
 
@@ -45,6 +42,10 @@ Delegating funding decisions to our members would allow funders to leverage the 
 
 We’ve been funding educational initiatives primarily. One of the most interesting was a 22 hour personal development programme - we are currently funding it workshop by workshop.**      **
 
+![](https://lh4.googleusercontent.com/2X4A6umtvcKxRYE6xv5Y6bMFndFKEFakyUuKtKSx4y2rDESEyxeGnu5759coGzX1xcgXoFKyxOiIcE8NefrXFoBqamvC4HekPqQ4OzemJukf8doZOqA4OfeS8l4w49AaP4tbF9Pa)
+
+Photo: _Members of the IEL community deep in discussion _**                  **
+
 #### **What have you noticed in your organisation since you began using Cobudget?**
 
 When we started with eight founding members, every member had a share of community funds to manage every single month. As we grew the complexities of life \(family situation, intensive client engagements, etc.\) start interfering more and more with the ability of some members to do the work of reviewing all the proposals and make conscious funding decisions. Whenever someone missed the funding their money was being unused. Those members usually wanted to delegate their share to others but we did not have the process for that in the Operating Principles at that time. This is what eventually prompted us to design the institution of ‘managing members’ - this enables people to opt in to manage their money for each round - if they choose not to spend that money we know that it is a conscious decision - every month you have the opportunity to click ‘yes I want to manage funds’. Now that have over 50 members, usually about 15-20% of our members opt in to manage community funds in a particular month \(with some healthy rotation of managing members\) - overall it’s very sustainable.
@@ -57,6 +58,6 @@ Pay attention to culture - Cobudget is great technology and has everything you n
 
 I don’t know - Cobudget is an ideal platform for us. Without it we would be using some ugly spreadsheets. This technology is an enabler of a new way of doing things.
 
-**                  
+**                    
 **
 
