@@ -1,6 +1,6 @@
 # Case Study: Institute for Evolutionary Leadership
 
-##### _**The **_[_**Institute for Evolutionary Leadership**_](https://www.evoleadinstitute.com/)_ **\(IEL\) provides content, process, advice, and access to thought leaders in relevant fields to help people, organizations, and communities get ready to redesign our world and make it more just, sustainable, and flourishing. They are a **hybrid social enterprise that combines a consulting & training company with a cooperative community of practice._
+_The _[_Institute for Evolutionary Leadership_](https://www.evoleadinstitute.com/)_ \(IEL\) provides content, process, advice, and access to thought leaders in relevant fields to help people, organizations, and communities get ready to redesign our world and make it more just, sustainable, and flourishing. They are a hybrid social enterprise that combines a consulting & training company with a cooperative community of practice._
 
 **How they use Cobudget? **To enagage their member community \(who makes recurring financial contributions\) in resource allocation and to empower them to fund their own workshops.
 
@@ -10,7 +10,7 @@
 
 ![](https://lh4.googleusercontent.com/2X4A6umtvcKxRYE6xv5Y6bMFndFKEFakyUuKtKSx4y2rDESEyxeGnu5759coGzX1xcgXoFKyxOiIcE8NefrXFoBqamvC4HekPqQ4OzemJukf8doZOqA4OfeS8l4w49AaP4tbF9Pa)
 
-Photo: _Members of the IEL community deep in discussion _**              
+Photo: _Members of the IEL community deep in discussion _**                
 **
 
 IEL practise what they preach, and have designed collaborative finance into the heart of the operating model of their Evolutionary Leadership Community.
@@ -57,6 +57,6 @@ Pay attention to culture - Cobudget is great technology and has everything you n
 
 I don’t know - Cobudget is an ideal platform for us. Without it we would be using some ugly spreadsheets. This technology is an enabler of a new way of doing things.
 
-**              
+**                
 **
 
