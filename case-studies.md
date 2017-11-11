@@ -2,6 +2,8 @@
 
 The best way to understand how Cobudgeting can be applied in your group is by learning from how other organisations and groups are using the tool and integrating collaborative funding into their processes. On the following pages, we have gathered stories from our most active groups and interviewed them about their learnings, favorite buckets and advice on using the tool.
 
+---
+
 ## Case Studies
 
 #### Membership Organisations
@@ -13,7 +15,7 @@ The best way to understand how Cobudgeting can be applied in your group is by le
 
 1. #### [BlackwoodSeven](/case-study-blackwood7.md)
 
-#### Networks & Communities 
+#### Networks & Communities
 
 #### Enspiral / OuiShare / Open Food Network
 
