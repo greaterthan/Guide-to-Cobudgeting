@@ -11,9 +11,9 @@
       * [Group Admin Guide](group-admin-guide.md)
     * [Cobudget Use Cases](case-studies-and-user-stories.md)
     * [Case Studies](case-studies.md)
-      * [Outlandish: surplus in an IT service coop](use-case-outlandish.md)
-      * [IEL: a social enterprise & community](case-study-evolutionary-leadership-institute.md)
-      * [Blackwood7: running an agile team](case-study-blackwood7.md)
+      * [Web Service Coop Outlandish](use-case-outlandish.md)
+      * [The Social Enterprise IEL](case-study-evolutionary-leadership-institute.md)
+      * [Agile Team in BlackwoodSeven](case-study-blackwood7.md)
   * [Value Accounting](value-accounting.md)
 * [About Greaterthan](about-greaterthan.md)
 
