@@ -8,6 +8,8 @@ Learn how to use collaborative financial tools in your organization. This Handbo
 
 Collaborative finance is a powerful tool to increase engagement, transparency and agility in organisations, networks, communities and groups.
 
+[**&gt;&gt; See map of the ecosystem of collaborative finance**](https://www.mindmeister.com/985455138)
+
 ---
 
 [**Greaterthan** ](https://greater.finance/)has the mission to nurture an open, collaborative finance ecosystem. We want to make collaborative finance easy and accessible to anyone.
