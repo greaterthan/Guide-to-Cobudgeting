@@ -24,7 +24,7 @@ Now that you have identifed where you want to get started with using Cobudget in
 | [Parameters & Policies Template](https://docs.google.com/document/d/1yK8A3HoT8Yd7ElYKfuccRibgCXb_yEj5Pu8WFMPAUts/edit#) | The most important template to start with: It guides you through the key parameters & policies that need to be setting up to start cobudgeting. |
 | [Models / Algorithms for distributing funds](https://docs.google.com/document/d/1dzQynmlx2HojdSDr7rbHjrNvFo78NQccyxvxNK4nwRE/edit?usp=sharing) | An overview of models you can use to distribute funds among your group members. |
 | Examples of group parameters | [Happy City Lab Bern](https://amanitas.gitbooks.io/amanitas-handbook/content/cobudget-collaborative-funding/prototype-1-with-house-residents.html) |
-| Online Demo | A short video about how the tool works that you can use to onboard your group. |
+| [Online Demo](https://youtu.be/8d1zrxNgFS8) | A short video about how the tool works that you can use to onboard your group. |
 
 ## 3. Run
 
