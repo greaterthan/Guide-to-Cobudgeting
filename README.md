@@ -11,7 +11,7 @@ Collaborative finance is a powerful tool to increase engagement, transparency an
 
 Get an overview by navigating this map. 
 
-<iframe width="1100" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/985455138/the-ecosystem-of-collaborative-finance?width=600&height=400&z=auto&presentation=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/985455138/the-ecosystem-of-collaborative-finance" target="_blank">The Ecosystem of Collaborative Finance</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/985455138/the-ecosystem-of-collaborative-finance" target="_blank">The Ecosystem of Collaborative Finance</a> by <a href="https://www.mindmeister.com/users/channel/23755308" target="_blank">Francesca Pick</a></div>
+<iframe width="800" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/985455138/the-ecosystem-of-collaborative-finance?width=600&height=400&z=auto&presentation=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/985455138/the-ecosystem-of-collaborative-finance" target="_blank">The Ecosystem of Collaborative Finance</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/985455138/the-ecosystem-of-collaborative-finance" target="_blank">The Ecosystem of Collaborative Finance</a> by <a href="https://www.mindmeister.com/users/channel/23755308" target="_blank">Francesca Pick</a></div>
 
 ---
 
