@@ -1,7 +1,7 @@
 # Summary
 
 * [README](README.md)
-* [Introduction](introduction.md)
+* [Introduction & Overview](introduction.md)
 * [Collaborative Finance Tools](collaborative-finance-tools.md)
   * [The Money-Flow Canvas](the-money-flow-canvas.md)
   * [Collaborative Funding: Cobudget](cobudget.md)
