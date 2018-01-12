@@ -1,6 +1,8 @@
-# Cobudgeting
+# Collaborative funding through Cobudgeting
 
-**Cobudget **helps groups allocate funds collaboratively and transparently. Get access to the private beta by signing up** **[**here**](http://cobudget.co).
+**Cobudgeting is a methodology** for collaborative decison-making around money. 
+
+**Cobudget is a software tool **helps groups allocate funds collaboratively and transparently. Get access to the private beta by signing up** **[**here**](http://cobudget.co).
 
 ---
 
@@ -9,7 +11,7 @@
 [**Learn to use Cobudget**](/learn-how-to-use-cobudget/key-features.md)  
 Get familiar with the basics.
 
-[**Guides & How To's**    
+[**Guides & How To's**      
 ](/guides-and-how-to.md)Advice on how to use Cobudget and fit it into your group processes.
 
 [**Use Cases**](/case-studies-and-user-stories.md)
