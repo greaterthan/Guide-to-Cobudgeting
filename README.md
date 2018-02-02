@@ -8,6 +8,6 @@ This guide is brought to you by [**Greaterthan**](http://greaterthan.finance), a
 
 _If you would like to contribute content to this guide, get in touch with francesca@greaterthan.finance.   _
 
-![](/assets/LOGO-HORIZONTAL XSmall.jpg)_  
+_    
 _
 
