@@ -4,8 +4,9 @@ We develop various tools \(software and practices\) to support organizations doi
 
 ### Tools in this guide
 
-* [The Money-Flow Canvas](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/the-money-flow-canvas.html)
 * [Collaborative Funding with Cobudget](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/cobudget.html)
+* [The Money-Flow Canvas](https://www.gitbook.com/book/greaterthan/greaterthan-s-guide-to-collaborative-finance/edit#)
+
 * [Value Accounting](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/value-accounting.html)
 
 
