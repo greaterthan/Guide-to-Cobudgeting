@@ -15,9 +15,13 @@ The best way to understand how Cobudgeting can be applied in your group is by le
 
 1. #### [BlackwoodSeven](/case-study-blackwood7.md)
 
-#### Networks & Communities
+---
 
-#### Enspiral / OuiShare / Open Food Network
+## Our community of practice
+
+If you would like to share and learn from experiences with others implementing Collaborative Finance in their organizations, you can request an invite to our** **[**Community of Practice**](https://www.loomio.org/g/CI3j26MK/greaterthan-community) on collaborative finance & governance**. **
+
+
 
 ![](https://c1.staticflickr.com/5/4295/35937824746_41712f0dce_z.jpg)
 
