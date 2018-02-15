@@ -8,6 +8,8 @@ A w_eb services consultancy based in London, _[_Outlandish_](http://outlandish.c
 
 ### Total in Funded Buckets =£192,450  \| No. of funded buckets = 34
 
+### [_&gt;&gt; Read Interview on Medium_](https://stories.greaterthan.finance/investing-surplus-for-impact-cobudgeting-at-outlandish-efa9890d0d4f)
+
 ![](/assets/outlanish.png)
 
 #### I**n your words, what is cobudgeting and how do you \(Outlandish\) do it?**
@@ -51,6 +53,6 @@ It was easy to spend small amounts of surplus \(&lt;£5,000\), because an indivi
 
 This could have been defined without using Cobudget, of course. But _with Cobudget, not only is the spending of the surplus now transparent_, but anybody working at Outlandish can propose projects, and funds can be distributed directly to individuals. It is the combination of these three elements that make it so transformative for how we manage our surplus.
 
-**                      
+**                        
 **
 
