@@ -4,9 +4,7 @@
 
 Watch this 2 min demo video that explains the basic admin features in Cobudget.
 
-[![](/assets/demovideo.png)](https://youtu.be/wS8GaGqwYrk) 
-
-<iframe width="630" height="394" src="https://www.useloom.com/embed/02abadd35abc434188c3060deffa8016" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="730" height="394" src="https://www.useloom.com/embed/02abadd35abc434188c3060deffa8016" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## 2 - Setting the parameters of your group
 
