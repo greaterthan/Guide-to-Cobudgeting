@@ -1,13 +1,31 @@
-# Collaborative Financial Tools
+# What is Cobudget\(ing\)?
 
-We develop various tools \(software and practices\) to support organizations doing collaborative finance. The tool we are currently working on is called Cobudget.
+## **Collaborative decisions about money**
 
-### Tools in this guide
+{% hint style="info" %}
+**Cobudgeting is a methodology** for making collaborative decisions in groups and organizations around money and resources.
 
-* [Collaborative Funding with Cobudget](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/cobudget.html)
-* [The Money-Flow Canvas](https://www.gitbook.com/book/greaterthan/greaterthan-s-guide-to-collaborative-finance/edit#)
+**Cobudget is a software tool** helps groups allocate funds collaboratively and transparently. Get access to our open source tool by signing up ****[**here**](http://cobudget.co).
+{% endhint %}
 
-* [Value Accounting](https://greaterthan.gitbooks.io/greaterthan-s-guide-to-collaborative-finance/content/value-accounting.html)
+## Getting started with Cobudget
+
+[**The Basics of Cobudget**](cobudget-basics.md)  
+Learn about Cobudget's key features.
+
+[**Guides & How To's**    
+](guides-and-how-to/)Advice on how to use Cobudget and fit it into your group processes.
+
+[**FAQ**](faq.md)  
+****Common questions and their answers.
+
+[**Use Cases**](guides-and-how-to/cobudget-use-cases.md)  
+****The most common use cases for implementing Cobudget and how they work.
+
+[**Case Studies: Stories from our users**](case-studies/)  
+People using Cobudget in networks, businessess, coops and communities.
+
+![](.gitbook/assets/unnamed-3.png)
 
 
 
