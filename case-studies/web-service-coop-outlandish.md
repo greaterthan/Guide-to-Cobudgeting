@@ -8,7 +8,7 @@ A w_eb services consultancy based in London,_ [_Outlandish_](http://outlandish.c
 
 ## Total in Funded Buckets =£192,450  \| No. of funded buckets = 34
 
-## [_&gt;&gt; Read Interview on Medium_](https://stories.greaterthan.finance/investing-surplus-for-impact-cobudgeting-at-outlandish-efa9890d0d4f)
+## [_&gt;&gt; Read Interview on Medium_](https://medium.com/greaterthanworks/investing-surplus-for-impact-cobudgeting-at-outlandish-efa9890d0d4f)
 
 ![](../.gitbook/assets/outlanish.png)
 

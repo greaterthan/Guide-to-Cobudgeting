@@ -1,6 +1,6 @@
 # Evolutionary Leadership Institute
 
-[You can also read this interview on Medium.](https://stories.greaterthan.finance/cobudgeting-for-member-engagement-bd1c54ed434)
+[You can also read this interview on Medium.](https://medium.com/greaterthanworks/cobudgeting-for-member-engagement-bd1c54ed434)
 
 _The_ [_Institute for Evolutionary Leadership_](https://www.evoleadinstitute.com/) _\(IEL\) provides content, process, advice, and access to thought leaders in relevant fields to help people, organizations, and communities get ready to redesign our world and make it more just, sustainable, and flourishing. They are a hybrid social enterprise that combines a consulting & training company with a cooperative community of practice._
 

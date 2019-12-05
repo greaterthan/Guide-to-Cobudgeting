@@ -8,7 +8,7 @@ The best way to understand how Cobudgeting can be applied in your group is by le
 2. [**Membership Network: Evolutionary Leadership Institute**](the-social-enterprise-iel.md)
 3. [**Company: BlackwoodSeven**](agile-team-in-blackwoodseven.md)
 
-See more case studies on our [blog. ](http://stories.greaterthan.finance/cobudget)
+See more case studies on our[ blog. ](https://medium.com/greaterthanworks/tagged/cobudget)
 
 ## Our community of practice
 
