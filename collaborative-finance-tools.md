@@ -8,7 +8,7 @@
 **Cobudget is a software tool** helps groups allocate funds collaboratively and transparently. Get access to our open source tool by signing up ****[**here**](http://cobudget.co).
 {% endhint %}
 
-## Getting started with Cobudget
+## What you will find in this guide to Cobudgeting
 
 [**The Basics of Cobudget**](cobudget-basics.md)  
 Learn about Cobudget's key features.
