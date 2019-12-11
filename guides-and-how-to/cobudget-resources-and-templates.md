@@ -46,7 +46,7 @@ Now it's time to run your first Cobudget round! This includes faciliating the pr
 | [User upload template](https://docs.google.com/spreadsheets/d/1gyetC5knE7wFbNuPGQBmKuSi055il9mAOoaglGV6-0w/edit#gid=0) | For bulk upload of users |
 | [Fund upload template](https://docs.google.com/spreadsheets/d/1gyetC5knE7wFbNuPGQBmKuSi055il9mAOoaglGV6-0w/edit#gid=1129322247) | For bulk upload and changing of users' funds |
 | [How to make a great bucket](./) | Advice and examples on how to scope & create convincing buckets |
-| Email Templates | to communciate with your group |
+| [Email Templates](https://docs.google.com/document/d/1auFX_B0uemW22LNd_8uvHubRQ6T_Li_JSaukS6uMHwg/edit) | To communicate & follow up with Bucket owners about their buckets  |
 
 ## 4. Close & Report
 
@@ -55,5 +55,6 @@ Once your round is over, you need to ensure that everything that took place insi
 | **Resources & Templates for Closing & Reporting Phase** |  |
 | :--- | :--- |
 | [Bucket Handoff Sheet Template](https://docs.google.com/spreadsheets/d/1gbqW2yJxNG7G7_B-oKbwQG0OoEiJY6pPTUppilORsyU/edit) | A template you can give your accountant to easily track & process funded buckets. |
+| [Email Templates](https://docs.google.com/document/d/1auFX_B0uemW22LNd_8uvHubRQ6T_Li_JSaukS6uMHwg/edit) | Follow up with Bucket owners about their buckets for payouts |
 | [Reports & Metrics](https://docs.google.com/document/d/12YsZKYzUHEk9pXXECrwg6xs4ZdkYJTzszJwMowe3M0Y/edit) | Examples of reports by groups using cobudget and a list of potential metrics you can measure to track engagement. |
 
