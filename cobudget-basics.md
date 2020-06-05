@@ -9,10 +9,10 @@
 * **Allocate funds** to the buckets you want to support
 
 {% hint style="info" %}
-To get started,[ **watch this 3 min demo**](https://www.useloom.com/share/b4d26448e1fc4d3bbf1015344e88291d) to discover the key features of Cobudget.
+To get started,[ **watch this 3 min demo** ](https://www.loom.com/share/418dd9460b6a43ce9fb0227cd8efcf13)to discover the basic features of Cobudget.
 {% endhint %}
 
-![Watch here: https://www.useloom.com/share/b4d26448e1fc4d3bbf1015344e88291d](.gitbook/assets/demovideo.png)
+![Watch here: https://www.loom.com/share/418dd9460b6a43ce9fb0227cd8efcf13](.gitbook/assets/demovideo.png)
 
 ### You are invited into a Cobudget group <a id="you-are-invited-into-a-loomio-group"></a>
 

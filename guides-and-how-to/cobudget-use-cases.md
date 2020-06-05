@@ -27,6 +27,12 @@ Cobudget is used to engage a paying \(monthly, quarterly or annually recurring\)
       <td style="text-align:left">
         <p></p>
         <ul>
+          <li>
+            <p>A percentage or the full <b>membership fee </b>(monthly, quaterly or annually)
+              is made available to members in a Cobudget group to decide what their fee
+              is spent on and suggest new ideas.</p>
+            <p>OR</p>
+          </li>
           <li>a percentage or total of<b> surplus / bonuses</b> are allocated through
             Cobudget to fund (new) projects</li>
         </ul>
@@ -39,7 +45,9 @@ Cobudget is used to engage a paying \(monthly, quarterly or annually recurring\)
       </td>
     </tr>
   </tbody>
-</table>## Teams and Organisations
+</table>
+
+## Teams and Organisations
 
 Cobudget is used for **teams or entire organisations** to collaboratively allocate resources to costs of all types and new projects.
 
@@ -74,7 +82,9 @@ Cobudget is used for **teams or entire organisations** to collaboratively alloca
       </td>
     </tr>
   </tbody>
-</table>## Communities and Networks
+</table>
+
+## Communities and Networks
 
 Cobudget is used for **funding a commons** within a network. They tend to consist of a diversity of individuals and entities \(both profit and non-profit\) in multiple locations.
 
@@ -111,3 +121,4 @@ Cobudget is used for **funding a commons** within a network. They tend to consis
     </tr>
   </tbody>
 </table>
+

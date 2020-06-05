@@ -2,7 +2,9 @@
 
 ## 1- Basic admin features
 
-[**Watch this 2 min demo video** ](https://www.useloom.com/share/02abadd35abc434188c3060deffa8016)that explains how to create and manage an new Cobudget group.
+\*\*\*\*[**Watch this short demo video**](https://www.loom.com/share/dcfb7ed171484082a335bf26fca81f6d) that explains how to create and manage an new Cobudget group.
+
+![Watch here: https://www.loom.com/share/dcfb7ed171484082a335bf26fca81f6d](../.gitbook/assets/image%20%285%29.png)
 
 ## 2 - Setting the parameters of your group
 
