@@ -6,7 +6,8 @@ The best way to understand how Cobudgeting can be applied in your group is by le
 
 1. [**Cooperative: Outlandish**](web-service-coop-outlandish.md)
 2. [**Membership Network: Evolutionary Leadership Institute**](the-social-enterprise-iel.md)
-3. [**Company: BlackwoodSeven**](agile-team-in-blackwoodseven.md)
+3. [**Community: the Enspiral Network**](https://medium.com/enspiral-tales/sharing-power-by-sharing-money-the-evolution-of-collaborative-funding-in-enspiral-a56643e9cd3)\*\*\*\*
+4. [**Company: BlackwoodSeven**](agile-team-in-blackwoodseven.md)
 
 See more case studies on our[ blog. ](https://medium.com/greaterthanworks/tagged/cobudget)
 

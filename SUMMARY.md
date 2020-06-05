@@ -14,6 +14,7 @@
   * [Web Service Coop Outlandish](case-studies/web-service-coop-outlandish.md)
   * [Evolutionary Leadership Institute](case-studies/the-social-enterprise-iel.md)
   * [Agile Team in BlackwoodSeven](case-studies/agile-team-in-blackwoodseven.md)
+  * [The Enspiral Network](case-studies/the-enspiral-network.md)
 * [FAQ](faq.md)
 * [Other Tools](more-collaborative-funding-tools/README.md)
   * [The Money-Flow Canvas](more-collaborative-funding-tools/the-money-flow-canvas.md)
