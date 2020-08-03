@@ -39,9 +39,9 @@ Cobudget is used to engage a paying \(monthly, quarterly or annually recurring\)
       </td>
       <td style="text-align:left">Alumni-organisations, NGOs, Cooperatives, Clubs Associations, Coworking
         Spaces, Fablabs</td>
-      <td style="text-align:left"><a href="../case-studies/web-service-coop-outlandish.md">Outlandish,</a> 
+      <td style="text-align:left"><a href="https://medium.com/greaterthanworks/investing-surplus-for-impact-cobudgeting-at-outlandish-efa9890d0d4f">Outlandish,</a> 
         <a
-        href="../case-studies/the-social-enterprise-iel.md">Evolutionary Leadership Institute</a>,<a href="http://www.atworkhubs.co.uk/"> </a>
+        href="https://medium.com/greaterthanworks/cobudgeting-for-member-engagement-bd1c54ed434">Evolutionary Leadership Institute</a>,<a href="http://www.atworkhubs.co.uk/"> </a>
       </td>
     </tr>
   </tbody>
@@ -78,7 +78,9 @@ Cobudget is used for **teams or entire organisations** to collaboratively alloca
             new ideas (i.e. running a contest)</li>
         </ul>
       </td>
-      <td style="text-align:left"><a href="https://blackwoodseven.com/"> Blackwood7</a>, <a href="https://stories.greaterthan.finance/how-to-use-money-as-a-tool-for-creating-agency-shared-responsiblity-c17d5875d816">League of Intrapreneurs</a>
+      <td style="text-align:left"><a href="https://guide.cobudget.co/case-studies/agile-team-in-blackwoodseven"> Blackwood7</a>,
+        <a
+        href="https://medium.com/greaterthanworks/how-to-use-money-as-a-tool-for-creating-agency-shared-responsiblity-c17d5875d816">League of Intrapreneurs</a>
       </td>
     </tr>
   </tbody>
@@ -115,9 +117,10 @@ Cobudget is used for **funding a commons** within a network. They tend to consis
         <p>Each specific network needs to find the right solution to manage the money
           flows between entities in a legal and efficient way.</p>
       </td>
-      <td style="text-align:left"><a href="http://enspiral.com">Enspiral</a>,<a href="http://ouishare.net"> OuiShare</a>,
+      <td style="text-align:left"><a href="https://medium.com/enspiral-tales/sharing-power-by-sharing-money-the-evolution-of-collaborative-funding-in-enspiral-a56643e9cd3">Enspiral</a>,
         <a
-        href="https://openfoodnetwork.org/">Open Food Network</a>, Edmund Hillary Fellowship</td>
+        href="http://ouishare.net">OuiShare</a>, <a href="https://openfoodnetwork.org/">Open Food Network</a>
+      </td>
     </tr>
   </tbody>
 </table>
