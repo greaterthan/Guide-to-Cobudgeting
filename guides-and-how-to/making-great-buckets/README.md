@@ -1,6 +1,6 @@
 # Guide to making great buckets
 
-![](../.gitbook/assets/bucketsmall.png)
+![](../../.gitbook/assets/bucketsmall.png)
 
 ### 1. How do I format my bucket beautifully?
 
@@ -21,7 +21,7 @@ When creating a bucket, you are free to add anything you like in the description
 
 ### 3. Examples of great buckets
 
-![](../.gitbook/assets/ouishare2.png)
+![](../../.gitbook/assets/ouishare2.png)
 
-![](../.gitbook/assets/ouishare3.png)
+![](../../.gitbook/assets/ouishare3.png)
 

@@ -48,7 +48,7 @@ Fill out all the fields. You can edit your buckets anytime, but once you have mo
 
 ![](.gitbook/assets/bucket-proposal.PNG)
 
-&gt;&gt; [Read more about writing and formating great buckets](guides-and-how-to/making-great-buckets.md)
+&gt;&gt; [Read more about writing and formating great buckets](guides-and-how-to/making-great-buckets/)
 
 ### Fund Buckets
 

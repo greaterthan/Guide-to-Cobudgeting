@@ -66,7 +66,7 @@ Take a look at our[ parameters template](guides-and-how-to/cobudget-resources-an
 
 ### What support materials do you have for users? 
 
-Check out our [how to make great buckets guide](guides-and-how-to/making-great-buckets.md) for advice on how to pitch your idea and format it beautifully. 
+Check out our [how to make great buckets guide](guides-and-how-to/making-great-buckets/) for advice on how to pitch your idea and format it beautifully. 
 
 ### Can we get support from experts for setting up and running our Cobudget process? <a id="can-we-get-support-from-experts-for-setting-up-and-running-our-cobudget-process"></a>
 
