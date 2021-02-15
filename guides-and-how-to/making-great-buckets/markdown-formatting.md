@@ -13,7 +13,7 @@ Cobudget uses a type of formatting called Markdown. See how to use it here:
 | [Code](https://www.markdownguide.org/basic-syntax/#code) | ```code``` |
 | [Horizontal Rule](https://www.markdownguide.org/basic-syntax/#horizontal-rules) | `---` |
 | [Link](https://www.markdownguide.org/basic-syntax/#links) | `[title](https://www.example.com)` |
-| [Image](https://www.markdownguide.org/basic-syntax/#images-1) | `![alt text](image.jpg)` |
+| Embed an [Image](https://www.markdownguide.org/basic-syntax/#images-1) | `![image text](image.jpg)` |
 
 [**Read more about markdown**](https://www.markdownguide.org/cheat-sheet)\*\*\*\*
 
