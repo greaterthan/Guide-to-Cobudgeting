@@ -16,7 +16,7 @@ To navigate this guide, please:
 * \*\*\*\*[**Browse our FAQ**](faq.md)\*\*\*\*
 {% endhint %}
 
-This guide is brought to you by [**Greaterthan**](http://greaterthan.works), an organization with the mission make participatory governance in organizations the new normal by spreading culture, knowledge and practices. We want to make collaborative funding easy and accessible to anyone.
+This guide is brought to you by [**Greaterthan**](http://greaterthan.works) ****and Plato. We have combined forces to make collaborative funding easy and accessible to anyone.
 
 ## License
 

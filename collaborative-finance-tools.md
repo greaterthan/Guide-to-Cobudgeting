@@ -23,7 +23,7 @@ Learn about Cobudget's key features.
 ****The most common use cases for implementing Cobudget and how they work.
 
 [**Case Studies: Stories from our users**](case-studies/)  
-People using Cobudget in networks, businessess, coops and communities.
+People using Cobudget in networks, businesses, coops and communities.
 
 ![](.gitbook/assets/unnamed-3.png)
 
