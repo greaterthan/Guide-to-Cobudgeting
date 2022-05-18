@@ -2,9 +2,9 @@
 
 ## How Cobudget works
 
-* **Start a round** to collaboratively fund projects on Cobudget
-* **Invite people** into your group
-* **Create Buckets** to propose projects
+* **Start a round** to collaboratively fund projects on Cobudget&#x20;
+* **Invite participants** into the round
+* **Create Buckets** to propose projects&#x20;
 * **Discuss bucket proposals** to improve them and get feedback from your group
 * **Allocate funds** to the buckets you want to support
 
