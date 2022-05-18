@@ -41,12 +41,10 @@ Now that you have identifed where you want to get started with using Cobudget in
 
 Now it's time to run your first Cobudget round! This includes faciliating the process from A to Z, such as communicating about it to your organisation members, onboarding them onto the tool, distributing funds to them and giving them support on how to use Cobudget well.
 
-| **Resources for **_**Running**_** Cobudget**                                                                                    |                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [User upload template](https://docs.google.com/spreadsheets/d/1gyetC5knE7wFbNuPGQBmKuSi055il9mAOoaglGV6-0w/edit#gid=0)          | For bulk upload of users                                           |
-| [Fund upload template](https://docs.google.com/spreadsheets/d/1gyetC5knE7wFbNuPGQBmKuSi055il9mAOoaglGV6-0w/edit#gid=1129322247) | For bulk upload and changing of users' funds                       |
-| [How to make a great bucket](./)                                                                                                | Advice and examples on how to scope & create convincing buckets    |
-| [Email Templates](https://docs.google.com/document/d/1auFX\_B0uemW22LNd\_8uvHubRQ6T\_Li\_JSaukS6uMHwg/edit)                     | To communicate & follow up with Bucket owners about their buckets  |
+| **Resources for **_**Running**_** Cobudget**                                                                |                                                                    |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [How to make a great bucket](./)                                                                            | Advice and examples on how to scope & create convincing buckets    |
+| [Email Templates](https://docs.google.com/document/d/1auFX\_B0uemW22LNd\_8uvHubRQ6T\_Li\_JSaukS6uMHwg/edit) | To communicate & follow up with Bucket owners about their buckets  |
 
 ## 4. Close & Report
 

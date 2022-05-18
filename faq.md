@@ -8,7 +8,7 @@ These are common questions we are asked about how Cobudget works. Select the rig
 {% tab title="Getting started" %}
 ### How do I start a new Cobudget group?
 
-&#x20;You can start a new group in 2 clicks by opening your side bar on the left and clicking "create new group." [Watch this brief tutorial](guides-and-how-to/group-admin-guide.md#1-basic-admin-features) to see how it works.&#x20;
+&#x20;You can start a new round in 2 clicks by opening your side bar on the left and clicking "new round." [Watch this brief tutorial](guides-and-how-to/group-admin-guide.md#1-basic-admin-features) to see how it works.&#x20;
 
 ### How do I invite new people to my group?&#x20;
 
@@ -18,7 +18,7 @@ Any admin can invite new people to their group with their email address, either 
 
 ### How do I invite large numbers of users to my group?&#x20;
 
-You can use the bulk upload feature for this, which you can see when you click on the "invite people" button in your settings. Here you can find an [easy template for uploading users.](guides-and-how-to/cobudget-resources-and-templates.md#2-setup) &#x20;
+You can simply copy paste from a large list of users, or send them an invite link.
 
 ### What different use cases are there for Cobudget?&#x20;
 
@@ -38,7 +38,7 @@ At the moment,  there is no way to sync Cobudget directly to your bank account. 
 
 ### Are alternative currencies available for Cobudget?&#x20;
 
-Cobudget currently lets you select from the following currencies when starting your group: EUR, USD, CAD, NZD, GBP, CHF, DKK, JYK. There have been discussions about enabling Cryptopayments with Cobudget, and if you are interested in getting involved in this discussion[, join in here.](https://www.loomio.org/d/wu6ryS2d/cobudget-crypto-continuing-the-thread-from-the-network-convergence-)&#x20;
+Cobudget currently lets you select from any standard fiat currencies when setting up your ruond. There have been discussions about enabling Cryptopayments with Cobudget, and if you are interested in getting involved in this discussion[, join in here.](https://www.loomio.org/d/wu6ryS2d/cobudget-crypto-continuing-the-thread-from-the-network-convergence-)&#x20;
 
 If your currency is missing, [get in touch ](mailto:hello@greaterthan.works)and we will add it on an on-demand basis.&#x20;
 
@@ -48,13 +48,7 @@ This is a common question! Since money in Cobudget is not real, you can of cours
 
 ### Is there a transaction history that I can view?&#x20;
 
-Yes, there is a full searchable transaction history in each group in the tab called "activity tab" with every transaction in Cobudget, such as funds being added to accounts and buckets being funded. You can also download the transactions as a CSV file.&#x20;
-
-![](<.gitbook/assets/image (2).png>)
-
-### What do all the numbers in the activity tab mean?&#x20;
-
-![](<.gitbook/assets/image (4).png>)
+Yes, there is a full searchable transaction history in each round in the tab called "transactions" with every financial transaction in Cobudget, such as funds being added to accounts and buckets being funded.&#x20;
 {% endtab %}
 
 {% tab title="Running & Facilitating Cobudget rounds" %}
@@ -90,15 +84,9 @@ To help you design and run great collaborative funding processes, we have create
 {% tab title="Development" %}
 ### How was Cobudget the software developed?&#x20;
 
-Cobudget is an open source project, that has been developed thanks to the contributions of a number of developers from the Enspiral network. &#x20;
+Cobudget is an open source tool that grew from the collaborative funding practices of various self-organized communities. In 2014 two separate platforms were built by [Enspiral](https://www.enspiral.com/) and the [Borderland](https://talk.theborderland.se/main/) community (called “Cobudget” and “Dreams” respectively). In 2022 [Greaterthan](https://www.greaterthan.works/) and [Blivande](https://www.blivande.com/) decided to join forces and are now collaborating on developing the current open beta version.
 
 [See Cobudget on Github](https://github.com/cobudget)&#x20;
-
-Currently, our team is focusing on supporting groups with the _**practice** of Cobudgeting_ rather than doing technical development of the application, but we work with a number of different development teams when needed.&#x20;
-
-### Do you have a public roadmap?&#x20;
-
-Yes, you can find our [**public roadmap here**,](https://changemap.co/greaterthan/cobudget/) where you can vote and add new feature ideas yourself.&#x20;
 {% endtab %}
 {% endtabs %}
 
