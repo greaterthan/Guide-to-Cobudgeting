@@ -44,4 +44,6 @@ You can start a new group from inside Cobudget by clicking on the **left nav bar
 
 ![](<.gitbook/assets/image (8).png>)
 
-{% embed url="https://www.loom.com/share/82ed7984e88140bcbfa03bebc421b48b" %}
+#### Tutorial for how to setup a round
+
+{% embed url="https://www.loom.com/share/4df39105c51b485fa42dc54e908c0606" %}
