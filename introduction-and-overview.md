@@ -8,7 +8,7 @@ We believe that **opening up decisions around resource allocation and money help
 
 ## Why organizations do collaborative funding
 
-The reasons for doing collaborative funding are manifold, but here are some common objectives: 
+The reasons for doing collaborative funding are manifold, but here are some common objectives:&#x20;
 
 * To run participatory internal innovation programs and call-for-proposals
 * To Catalyze employee or member engagement by enabling them to propose projects and allocate resources to them
@@ -18,17 +18,15 @@ The reasons for doing collaborative funding are manifold, but here are some comm
 
 Get an overview of the organizations, tools and initiatives exploring and experimenting with collaborative money practices, by navigating [this map](https://www.mindmeister.com/de/985455138/the-ecosystem-of-collaborative-finance?fullscreen=1).
 
-![](.gitbook/assets/image%20%281%29.png)
+![](<.gitbook/assets/image (1).png>)
 
-\*\*\*\*[**&gt;&gt; See the full Map "The Ecosystem of Collaborative Finance".**](https://www.mindmeister.com/985455138/the-ecosystem-of-collaborative-finance)\*\*\*\*
+****[**>> See the full Map "The Ecosystem of Collaborative Finance".**](https://www.mindmeister.com/985455138/the-ecosystem-of-collaborative-finance)****
 
 If you have content to add, [send us a message](mailto:francesca@greaterthan.finance) and we would be happy to add you as a contributor.
 
 {% hint style="info" %}
-### Learning from the experience of others 
+### Learning from the experience of others&#x20;
 
 If you would like to share and learn from experiences with others implementing collaborative funding in their organizations, request an invite to our [**Community of Practice**](https://www.loomio.org/g/CI3j26MK/greaterthan-community)**.**
 {% endhint %}
-
-
 

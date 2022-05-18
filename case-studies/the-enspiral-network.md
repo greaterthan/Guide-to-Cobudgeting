@@ -6,5 +6,4 @@
 
 **This article gives an overview of how the** [**Cobudget tool** ](http://cobudget.co/)**and practice are used in Enspiral today, and shares some lessons from our more recent experiments.**
 
-\*\*\*\*[**&gt;&gt; Read Article**](https://medium.com/enspiral-tales/sharing-power-by-sharing-money-the-evolution-of-collaborative-funding-in-enspiral-a56643e9cd3)\*\*\*\*
-
+****[**>> Read Article**](https://medium.com/enspiral-tales/sharing-power-by-sharing-money-the-evolution-of-collaborative-funding-in-enspiral-a56643e9cd3)****
