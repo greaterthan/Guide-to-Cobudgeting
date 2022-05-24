@@ -1,5 +1,7 @@
 # Welcome
 
+## _\~ This handbook is currently being updated so some information still refers to the previous version of Cobudget \~_
+
 ## This Handbook is a guide to key steps of collaborative funding in groups and organizations.&#x20;
 
 It is a living repository that provides key resources and insights to get started with the practice of collaborative funding and make it more accessible and easy.
